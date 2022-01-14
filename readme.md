@@ -1,33 +1,41 @@
-# Avo-store Proyecto Curso de Next.JS de Platzi
+<p align="center">
+    <img alt="Rick And Morty Logo" src="https://static.platzi.com/media/achievements/badge-nextjs-2259fc68-f86b-486e-bc09-95311a887985.png" width="60" />
+</p>
+<h1 align="center">
+  Avo-store Proyecto Curso de Next.JS de Platzi
+</h1>
 
 Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
 
-### 🚀 Logros
+### 🚀 Achievements
 
-1. Creación del proyecto
-1. Agrego una ruta básica
-1. Agrego una ruta dinámica
-1. Enlazo páginas y creo una SPA
-1. Agrega nuestra propia API
-1. Páginas usando nuestra propia API
+1. Project creation
+1. I add a basic route
+1. I add a dynamic route
+1. I link pages and create a SPA
+1. Add our own API
+1. Pages using our own API
 
-### 🤖 Guía Rápida
+### 🤖 Quick guide to download the project
 
-1.  **Empieza a desarrollar.**
-
-    Instala dependencias
-
+1.  **Clone the repository.**
+    In case you haven't: 
     ```sh
-    yarn
+    git clone git@github.com:edex-13/avoStore.git
+    cd avoStore
     ```
-
-    Inicia el proyecto
-
+    Ya tienes el proyecto ❤
+2.  **Install dependencies.**
     ```sh
-    yarn dev
+    npm install
     ```
-
-    El sitio estará disponible en http://localhost:3000.
-
-    Happy hacking!
+3.  **Run the application.**
+      ```sh
+      npm build
+      npm start
+      ```
+      El sitio estará disponible en http://localhost:3000.
+      Happy hacking!
+4.  **Enjoy!**
+--------
 
