@@ -2,10 +2,10 @@
     <img alt="Rick And Morty Logo" src="https://static.platzi.com/media/achievements/badge-nextjs-2259fc68-f86b-486e-bc09-95311a887985.png" width="60" />
 </p>
 <h1 align="center">
-  Avo-store Proyecto Curso de Next.JS de Platzi
+  Avo-store - Platzi's Next.JS Course Project
 </h1>
 
-Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
+Next JS course dictated by [@jonalvarezz](https://twitter.com/jonalvarezz) for [Platzi](https://platzi.com)
 
 ### 🚀 Achievements
 
@@ -24,7 +24,7 @@ Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para
     git clone git@github.com:edex-13/avoStore.git
     cd avoStore
     ```
-    Ya tienes el proyecto ❤
+    You already have the project ❤
 2.  **Install dependencies.**
     ```sh
     npm install
@@ -34,8 +34,12 @@ Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para
       npm build
       npm start
       ```
-      El sitio estará disponible en http://localhost:3000.
+      The site will be available at http://localhost:3000.
+
+
       Happy hacking!
 4.  **Enjoy!**
 --------
 
+
+Project made with the sole objective of learning😎
